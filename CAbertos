@@ -17,6 +17,6 @@
 <item>
 <title>[COLOR white][B]Teste de filmes[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-77OReR7uIFfeAQZdvnHxDkQTWJIfZD0/view$$1sname=[COLOR white][B]Teste 01[/B][/COLOR]</link>
-<thumbnail></thumbnail>
-<info></info>
+<thumbnail>https://ia601508.us.archive.org/30/items/9348756473890495876/canaisabertos.jpg</thumbnail>
+<info>Teste</info>
 </item>
