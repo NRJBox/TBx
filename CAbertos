@@ -16,7 +16,7 @@
 
 <item>
 <title>[COLOR white][B]Teste de filmes[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-77OReR7uIFfeAQZdvnHxDkQTWJIfZD0/view $$1sname=[COLOR white][B]Teste 01[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-77OReR7uIFfeAQZdvnHxDkQTWJIfZD0/view$$1sname=[COLOR white][B]Teste 01[/B][/COLOR]</link>
 <thumbnail></thumbnail>
 <info></info>
 </item>
