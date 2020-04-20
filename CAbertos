@@ -15,7 +15,7 @@
 
 <item>
 <title>[COLOR white][B]Teste de filmes[/B][/COLOR]</title>
-<link>http://proxyts.canais.ink:8080/a/hls/boborj.m3u8$$1sname=[COLOR white][B]Teste 01[/B][/COLOR]</link>
+<link>https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/globorj_bc15c774_82f0c656a320e8163814f1a1446dc2e9f4bc7d34/playlist.m3u8$$1sname=[COLOR white][B]Teste 01[/B][/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oKIn1gCRi-jJ0bvRh4PqgzlEvqUSyhUy$$lsname=[COLOR lime]FULLHD[/COLOR] - DUBLADO GD</link>
 <thumbnail>https://ia601508.us.archive.org/30/items/9348756473890495876/canaisabertos.jpg</thumbnail>
 <info>Teste</info>
